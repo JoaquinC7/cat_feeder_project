@@ -1,0 +1,5 @@
+ultralytics
+opencv-python
+numpy
+# optional (for Raspberry Pi feeder control)
+gpiozero

@@ -1,0 +1,7 @@
+# data.yaml
+train: ./data/images  # folder with training images
+val:   ./data/images  # if you don't have a separate val set, you can use same folder (not ideal)
+# (better: split images into data/images/train and data/images/val and update paths)
+
+nc: 3
+names: ["tabby", "black", "calico"]
